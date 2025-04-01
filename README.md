@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Jeanette Kgabe!
 
 ### 💡 About Me
-I'm a Computer Science graduate from Tshwane University of Technology, currently pursuing an Advanced Diploma in Computer Science. I am also a Mobile and Web Developer Trainee at **mLab - CodeTribe Academy** 🚀. Passionate about building scalable and user-friendly applications, I continuously explore new technologies and improve my skills. I thrive in collaborative environments and enjoy solving complex problems with elegant solutions.
+I'm a Computer Science graduate from Tshwane University of Technology, currently pursuing an Advanced Diploma in Computer Science. Passionate about building scalable and user-friendly applications, I continuously explore new technologies and improve my skills. I thrive in collaborative environments and enjoy solving complex problems with elegant solutions.
 
 With a strong passion for building scalable, user-friendly, and high-performance applications, I continuously explore new technologies to enhance my skills and stay up to date with the ever-evolving tech industry.
 
